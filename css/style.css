@@ -1,0 +1,25 @@
+.wn-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin:40px auto;
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: arial;
+  }
+  
+.wn-card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .wn-card h1 {
+      font-size: 68px;
+      font-weight: bolder;
+      padding: 0;
+  }
